@@ -1,7 +1,7 @@
 **1_turtlesim Using ROS1**
 - adding the code
 
-<img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/0db21abc-d6fe-467e-a828-05e237905754" width="600" height="200">
+<img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/0db21abc-d6fe-467e-a828-05e237905754" width="600" height="300">
 
 - Running the code Or draw using the keyboards
 

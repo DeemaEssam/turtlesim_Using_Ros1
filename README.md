@@ -24,10 +24,7 @@ rosrun turtleism turtleism_node
 
 <img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/de632460-a13f-48de-9a6f-cf7afb21169d" width="350" height="250">
 
-<img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/b57b89a7-7d0e-4e64-a203-6d11728ea4e8" width="600" height="200">
-
 <img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/05ed329f-c88e-4dac-afda-dc394abaa9d8" width="600" height="200">
-![Screenshot 2024-07-04 051951](https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/05ed329f-c88e-4dac-afda-dc394abaa9d8)
 
 ****************************************************************************************************************************************************
 ***2_turtlesim Using ROS 2***

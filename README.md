@@ -42,20 +42,6 @@ ros2 run turtlesim turtlesim_node
 ros2 run turtleism turtle_teleop_key
 ```
 
-h
-h
-h
-h
-h
-h
-h
-- adding the code
-
-<img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/0db21abc-d6fe-467e-a828-05e237905754" width="600" height="300">
-
--  draw using the keyboards
-
-
 <img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/6c21657e-0682-4482-ab19-197a83a22f5c" width="400" height="300">
 
 <img src="https://github.com/DeemaEssam/turtlesim_Using_Ros1_And_ROs2/assets/106381596/38461377-7ee3-40c9-b595-33f3659ae1f4" width="400" height="300">

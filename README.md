@@ -1,17 +1,17 @@
 ***1_turtlesim Using ROS 1***
 
-- Begin by sourcing the ROS setup script (/opt/ros/noetic/setup.bash for ROS Noetic) in your terminal to initialize the ROS command-line tools and environment variables.
+- Begin by sourcing the ROS setup script (/opt/ros/noetic/setup.bash for ROS Noetic) in the terminal to initialize the ROS command-line tools and environment variables.
 bash
 ```ruby
 source /opt/ros/noetic/setup.bash
 ```
 
-- Start the ROS using the command
+- Start the ROS in another terminal using the command
 ```ruby
 roscore
 ```
 
-- i launched the Turtlesim simulator in another terminal using 
+- i launched the Turtlesim simulator also in another terminal using 
 ```ruby
 rosrun turtleism turtleism_node
 ```

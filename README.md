@@ -1,7 +1,7 @@
 ***1_turtlesim Using ROS 1***
 
 - Begin by sourcing the ROS setup script (/opt/ros/noetic/setup.bash for ROS Noetic) in the terminal to initialize the ROS command-line tools and environment variables.
-- 
+  
 ```ruby
 source /opt/ros/noetic/setup.bash
 ```
